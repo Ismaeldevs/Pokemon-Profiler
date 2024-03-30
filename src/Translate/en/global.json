@@ -1,0 +1,52 @@
+{
+    "header": {
+        "title": "Welcome to Pokemon Profiler",
+        "about": "Looking to see all the pokemon from the Pokemon animated series? You are in the right place, start right now and discover all the pokemon contained in Pokemon Profiler with their abilities, stats and much more.",
+        "btn-text": "DISCOVER POKEMON"
+    },
+    
+    "main": {
+        "subtitle": "5 Curiosities about Pokemon",
+        "t-data#1": "The first Pokemon animated series premiered on April 1, 1997.",
+        "about-data#1": "The success of the video games, which still continues to this day, led to its plot being adapted into an anime produced by OLM Animation Studios, Inc. which has been broadcast on TV Tokyo since it premiered on April 1, 1997.",
+        "t-data#2": "Pokemon regions are inspired by real locations",
+        "about-data#2": "Did you know that the regions of Kanto and Galar are inspired by real places? From Japan to the United Kingdom, each region has its own connection to the real world.",
+        "t-data#3": "Nidorino and Gengar are the first Pokémon to appear in the anime",
+        "about-data#3": "In the first episode of the anime, the first Pokémon to make their appearance are none other than Nidorino and Gengar. These two Pokémon, with their imposing silhouettes, marked the beginning of the series that captivated us.",
+        "t-data#4": "Hitmonlee and Hitmonchan, tributes to great wrestlers",
+        "about-data#4": "The two most recognizable first-generation fighting pokémon are named in the West after Bruce Lee and Jackie Chan. In Japan, however, they are called Ebiwalar and Sawamular, in homage to boxing champion Hiroyuki Ebihara and kickboxer Tadashi Sawamura, respectively.",
+        "t-data#5": "They say that Ditto, that Pokemon capable of imitating any other, is a failed copy of Mew.",
+        "about-data#5": "The one that did well was Mewtwo and Ditto is the less fortunate twin. If you think about it, Mew and Ditto have similar attacks, you can find them in the same cave and, in fact, they have similar colors.",
+        "settings": "Settings"
+    },
+    "footer": {
+        "title-about": "THANK YOU FOR VISITING POKEMON PROFILER",
+        "about": "We appreciate that you have decided to visit pokemon profiler, we hope you find it useful to know the statistics of the pokemon you are looking for.",
+        "shortcuts": "Shortcuts",
+        "shortcut#1": "Home",
+        "shortcut#2": "PokeDex",
+        "social-media": "Social Media",
+        "net#1": "Instagram",
+        "net#2": "Github",
+        "developer": "Pokemon Profiler Developer",
+        "about-dev": "This Pokemon website about Pokemon called Pokemon Profiler was developed and hosted by",
+        "btn-dev": "@Ismadev",
+        "reserved": "All rights reserved 2024"
+    },
+    "pokedex": {
+        "search": "Search Pokemon",
+        "details": "View More"
+    },
+    "pokeview": {
+        "desc": "en",
+        "height": "Height: ",
+        "weight": "Weight: ",
+        "text-type": "Type: ",
+        "text-skills": "Abilities: ",
+        "stats": "Stats",
+        "evolution": "Evolutions",
+        "home": "Back",
+        "lang": 7,
+        "habitat": 0
+    }
+}

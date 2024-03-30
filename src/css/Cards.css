@@ -1,0 +1,24 @@
+.card-hover {
+	transition: all .25s ease;
+}
+
+.card-hover:hover {
+	transform: translateY(-8px) scale(1.01);
+}
+
+.container-pokeid {
+	display: flex;
+	justify-content: center;
+}
+
+.PokeID {
+	display: flex;
+	justify-content: center;
+	background-color: rgba(30, 175, 237, 0.431);
+	border-radius: 60%;
+	width: 23%;
+}
+
+.btn-more {
+	background-color: rgb(36, 36, 36);
+}

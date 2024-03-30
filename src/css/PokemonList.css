@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/pokemon-solid');
+
+.settings {
+    display: flex;
+    justify-content: end;
+    color: rgb(30, 91, 232);
+    margin: 20px;
+}
+
+.icon {
+    margin-top: 3px;
+    margin-right: 5px;
+}
+
+.pokeprofiler {
+    display: flex;
+    justify-content: center;
+    font-family: 'Pokemon Solid', sans-serif;
+    font-size: 60px;
+    color: rgb(241, 222, 80);
+}
+
+.pokeprofiler img {
+    margin-left: 20px;
+}
+
+.check-switch{ 
+    display: flex;
+    justify-content: end;
+    padding: 5px;
+}

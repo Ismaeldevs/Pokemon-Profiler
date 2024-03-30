@@ -1,0 +1,52 @@
+{
+    "header": {
+        "title": "Bienvenido a Pokemon Profiler",
+        "about": "¿Buscas ver todos los pokemones de la serie animada Pokemon? Te encuentras en el sitio indicado, empieza ahora mismo y descubre todos los pokemones que contiene Pokemon Profiler con sus habilidades, estadisticas y mucho más.",
+        "btn-text": "DESCUBRIR POKEMONES"
+    },
+    
+    "main": {
+        "subtitle": "5 Curiosidades sobre Pokemon",
+        "t-data#1": "La primera serie animada de Pokemon se estreno el 1 de abril de 1997",
+        "about-data#1": "El éxito de los videojuegos que aún se mantiene hasta estos días, hizo que su trama fuera adaptada en un anime producido por los estudios de animación OLM, Inc., el cual es emitido por la cadena de televisión TV Tokyo desde que se estrenó el 1 de abril de 1997.",
+        "t-data#2": "Las regiones de Pokemon están inspiradas en lugares reales",
+        "about-data#2": "¿Sabías que las regiones de Kanto y Galar, están inspiradas en lugares reales? Desde Japon hasta el Reino Unido, cada región tiene su propia conexión con el mundo real.",
+        "t-data#3": "Nidorino y Gengar son los primeros Pokémon que aparecen en el anime",
+        "about-data#3": "En el primer episodio del anime, los primeros Pokémon que hacen su aparición son nada menos que Nidorino y Gengar. Estos dos Pokémon, con sus imponentes siluetas, marcaron el inicio de la serie que nos cautivo.",
+        "t-data#4": "Hitmonlee y Hitmonchan, homenajes a grandes luchadores",
+        "about-data#4": "Los dos pokémon más reconocibles de pelea en primera generación reciben su nombre en occidente como homenaje de Bruce Lee y Jackie Chan. Sin embargo, en Japón se llaman Ebiwalar y Sawamular, en homenaje al campeón de boxeo Hiroyuki Ebihara y al Kickboxer Tadashi Sawamura, respectivamente.",
+        "t-data#5": "Dicen que Ditto, ese Pokemon capaz de imitar a cualquier otro, es una copia fallida de Mew",
+        "about-data#5": "La que obtuvo buen resultado fue Mewtwo y Ditto es el gemelo menos afortunado. Si lo piensas, Mew y Ditto cuentan con ataques similares, puedes hallarlos en la misma cueva y, de hecho, tienen unos colores parecidos.",
+        "settings": "Ajustes de Pestaña"
+    },
+    "footer": {
+        "title-about": "GRACIAS POR VISITAR POKEMON PROFILER",
+        "about": "Agradecemos que hayas decidido visitar pokemon profiler, esperamos que te sea de utilidad para saber las estadisticas del pokemon que busques.",
+        "shortcuts": "Atajos",
+        "shortcut#1": "Inicio",
+        "shortcut#2": "PokeDex",
+        "social-media": "Social Media",
+        "net#1": "Instagram",
+        "net#2": "Github",
+        "developer": "Desarollador de Pokemon Profiler",
+        "about-dev": "Esta pagina web de Pokemones conocida como Pokemon Profiler fue desarrollada y alojada por ",
+        "btn-dev": "@Ismadev",
+        "reserved": "Derechos Reservados 2024"
+    },
+    "pokedex": {
+        "search": "Buscar Pokemon",
+        "details": "Ver Mas"
+    },
+    "pokeview": {
+        "desc": "es",
+        "height": "Altura: ",
+        "weight": "Peso: ",
+        "text-type": "Tipo: ",
+        "text-skills": "Habilidades: ",
+        "stats": "Estadísticas",
+        "evolution": "Cadena de evolución",
+        "home": "Volver",
+        "lang": 5,
+        "habitat": 0
+    }
+}
