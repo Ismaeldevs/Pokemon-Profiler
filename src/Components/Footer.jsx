@@ -38,7 +38,7 @@ const Footer = () => {
           </div>
           <div className="mb-2">
             <i className="fa-brands fa-github"></i>
-            <a className="text-secondary text-decoration-none" href="https://github.com/IsmaDevs"> {t("footer.net#2")}</a>
+            <a className="text-secondary text-decoration-none" href="https://github.com/Ismadevs"> {t("footer.net#2")}</a>
           </div>
         </div>
 
