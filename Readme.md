@@ -1,6 +1,5 @@
-# # # # # # # # # #
-# IDEA PRINCIPAL  #
-# # # # # # # # # #
+# IDEA PRINCIPAL 🧠
+
 
 - La idea principal de la página web fue crear algo simple, bueno y nada complicado
 para el usuario quien desee buscar un pokemon, entonces para ello pense en la estructura de la web:
@@ -30,9 +29,9 @@ entonces pense en un nombre que haga referencia a los intereses de la página y 
 
 
 
-# # # # # # # # # #
-# INICIALIZACION  #
-# # # # # # # # # #
+
+## INICIALIZACION 🪛
+
 
 Para inicializar el proyecto se debe abrir la terminal usando ctrl + j o arriba a la izquierda donde dice Terminal damos click > New Terminal,
 después en nuestra terminal escribimos:
@@ -43,11 +42,8 @@ después en nuestra terminal escribimos:
 
 
 
-# # # # # # # # # # #
-# POKEMON PROFILER  #
-# # # # # # # # # # #
 
-¿Cómo se programo Pokemon Profiler?
+## POKEMON PROFILER - ¿Cómo se desarrollo Pokemon Profiler? 🛠️
 
 Para la programación de Pokemon Profiler se utilizo Vite + React.js (con JavaScript).
 
@@ -159,9 +155,8 @@ Ya por ultimo este componente es de lo más fáciles ya que simplemente es códi
 los Link de react-router-dom los usuarios pueden redireccionarse a las paginas y otros items como mis redes sociales, con la ayuda de CSS se lo pudo
 dejar más limpio e ordenado y con fontawesome se le coloco iconos a cada uno de los Link que contienen texto.
 
-# # # # # # # # # # # # # # #
-# OPCIONES DE LA PAGINA WEB #
-# # # # # # # # # # # # # # #
+
+## OPCIONES DE LA PAGINA WEB ✅
 
 Las opciones que tenia que tener la página web fueron las siguientes:
 
@@ -227,9 +222,7 @@ y después en caso que la validación previamente hecha es correcta se procede a
 y se terminaria filtrando el nombre buscado y todo esto se lo guarda en la variable de estado list que mostrara el pokemon al usuario y todo el procedimiento de filtración y guardar los datos en la variable de estado se lo hace dentro de una función timeout.
 
 
-# # # # #
-# FINAL #
-# # # # #
+## FINAL 
 
 Sinceramente espero que se haya entendido todo lo que escribi sobre como logre hacer cada cosa importante de la página, mi expresión no es la mejor pero trate de que sea lo mejor entendible posible. Sin más que decir está página estara alojada temporalmente en mi netlify, luego sera removido posiblemente.
 
@@ -237,6 +230,6 @@ Sinceramente espero que se haya entendido todo lo que escribi sobre como logre h
 » Gracias.
 
 
-- - - - - - - -
+## DEMO
 
-
+[Click Here](http://poke.ismadev.site/)
